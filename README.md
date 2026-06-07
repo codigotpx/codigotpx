@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=700&color=00F7F7&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Camilo;%F0%9F%8E%AE+Student+%26+Developer;%F0%9F%94%8C+Passionate+about+IoT+%26+Gaming;%F0%9F%92%BB+Full+Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=700&color=00F7F7&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Camilo;%F0%9F%8E%AE+Student+%26+Developer;%F0%9F%94%8C+Passionate+about+IoT+%26+Gaming;%F0%9F%92%BB+Web+%2F+Mobile+%2F+Full+Stack" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-Programming student passionate about software development, IoT and video games 🎮. I love building mobile apps, embedded systems with ESP8266/ESP32 🔌 and classic games. Always learning something new and looking for projects that blend code with creativity 💻.
+Programming student passionate about web development, IoT and video games 🎮. I love building web apps, mobile apps, embedded systems with ESP8266/ESP32 🔌 and classic games. Always learning something new and looking for projects that blend code with creativity 💻.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codigotpx&color=00F7F7&style=flat-square&label=👀+Visitors" />
